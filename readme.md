@@ -2,7 +2,7 @@
 
 Boilerplate code for getting started on a react+sass project.
 
-# Node-react+sass-heroku is available here.
+# Node-react+sass-heroku is available [here](https://github.com/rajaraghav/node-react-herokuass-Boilerplate/).
 
 ## About setup
 
